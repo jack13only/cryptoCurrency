@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/static/css/main.9b626904.css",
+    "main.js": "/static/js/main.864b2af4.js",
+    "static/media/super_ferret.jpg": "/static/media/super_ferret.37d1e2fbd04b42a8b2fc.jpg",
+    "index.html": "/index.html",
+    "main.9b626904.css.map": "/static/css/main.9b626904.css.map",
+    "main.864b2af4.js.map": "/static/js/main.864b2af4.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.9b626904.css",
+    "static/js/main.864b2af4.js"
+  ]
+}
