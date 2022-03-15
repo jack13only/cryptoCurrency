@@ -1,14 +1,14 @@
 {
   "files": {
-    "main.css": "./static/css/main.1f66d876.css",
+    "main.css": "./static/css/main.42898f95.css",
     "main.js": "./static/js/main.45dcbbf7.js",
     "static/media/super_ferret.jpg": "./static/media/super_ferret.37d1e2fbd04b42a8b2fc.jpg",
     "index.html": "./index.html",
-    "main.1f66d876.css.map": "./static/css/main.1f66d876.css.map",
+    "main.42898f95.css.map": "./static/css/main.42898f95.css.map",
     "main.45dcbbf7.js.map": "./static/js/main.45dcbbf7.js.map"
   },
   "entrypoints": [
-    "static/css/main.1f66d876.css",
+    "static/css/main.42898f95.css",
     "static/js/main.45dcbbf7.js"
   ]
 }
